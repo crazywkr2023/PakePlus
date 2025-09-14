@@ -1,0 +1,16 @@
+{
+    "app_name": "app",
+    "main": "./index.html",
+    "name": "app",
+    "webkit": {},
+    "window": {
+        "frame": true,
+        "icon": "./ico.png",
+        "id": "app",
+        "resizable": true,
+        "show": true,
+        "show_in_taskbar": true,
+        "title": "app",
+        "visible": true
+    }
+}
